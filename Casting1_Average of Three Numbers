@@ -1,0 +1,5 @@
+num1 = input()
+num2 = input()
+num3 = input()
+total = float(num1) + float(num2) + float(num3)
+print(total/3)
