@@ -1,0 +1,4 @@
+num = float(input("Enter a decimal number"))
+num_int = int(num)
+num_rounded = round(num)
+print(num,"as an integer is", num_int, "and rounds to", num_rounded)
