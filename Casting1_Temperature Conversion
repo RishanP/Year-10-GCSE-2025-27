@@ -1,0 +1,4 @@
+celcius = str(input("Enter a temperature in Celsius"))
+celcius_float = float(celcius)
+farenheit = (celcius_float * 9 / 5) + 32
+print(celcius, "degrees Celcius in Farenheit is", farenheit)
